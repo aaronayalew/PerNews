@@ -32,7 +32,7 @@ dependencies:
 
   shared_preferences: ^2.0.5
   mdi: ^3.0.0
-  google_fonts: ^1.1.0
+  google_fonts: ^2.3.1
   global_configuration: ^1.6.0
   mvc_pattern: ^6.0.0
   flutter_tts:
@@ -62,7 +62,7 @@ dependencies:
   swipedetector: ^1.2.0
   hexcolor: ^1.0.6
   html: ^0.14.0+4
-  bot_toast: ^3.0.5
+  bot_toast: ^4.0.1
   flutter_share_me: ^0.9.2
   preload_page_view: ^0.1.6
   provider: ^5.0.0
