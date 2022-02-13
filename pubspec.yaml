@@ -68,7 +68,7 @@ dependencies:
   provider: ^5.0.0
   get_it: ^5.0.1
 
-  flutter_cache_manager: ^2.1.2
+  flutter_cache_manager: ^3.3.0
   google_sign_in: ^4.0.0
   youtube_player_flutter: ^8.0.0
   visibility_detector: ^0.2.2
