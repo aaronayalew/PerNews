@@ -91,8 +91,8 @@ TextTheme getLightTextTheme() {
     headline4: GoogleFonts.ubuntu(fontSize: 12, color: Colors.white),
     headline6: GoogleFonts.ubuntu(fontSize: 14, color: Colors.black),
     subtitle1: GoogleFonts.ubuntu(color: Colors.grey, fontSize: 12),
-    bodyText1: GoogleFonts.quickSand(fontWeight: FontWeight.w500, fontSize: 15),
-    bodyText2: GoogleFonts.quickSand(fontSize: 25, color: Colors.white),
+    bodyText1: GoogleFonts.ubuntu(fontWeight: FontWeight.w500, fontSize: 15),
+    bodyText2: GoogleFonts.ubuntu(fontSize: 25, color: Colors.white),
   );
 }
 
