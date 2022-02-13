@@ -1,11 +1,11 @@
-import 'package:blog_app/controllers/user_controller.dart';
-import 'package:blog_app/helpers/shared_pref_utils.dart';
+import 'package:PerNews/controllers/user_controller.dart';
+import 'package:PerNews/helpers/shared_pref_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:get_it/get_it.dart';
 import 'package:mdi/mdi.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import '../appColors.dart';
 
 SharedPreferences prefs;

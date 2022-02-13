@@ -1,4 +1,4 @@
-import 'package:blog_app/models/blog_category.dart';
+import 'package:PerNews/models/blog_category.dart';
 
 class BlogListHolder {
   List<Blog> _list = new List();

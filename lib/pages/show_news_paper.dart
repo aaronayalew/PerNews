@@ -1,5 +1,5 @@
 import 'package:advance_pdf_viewer/advance_pdf_viewer.dart';
-import 'package:blog_app/models/e_news.dart';
+import 'package:PerNews/models/e_news.dart';
 import 'package:flutter/material.dart';
 
 import '../app_theme.dart';

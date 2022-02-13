@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'dart:io';
-import 'package:blog_app/models/e_news.dart';
-import 'package:blog_app/models/live_news.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/models/e_news.dart';
+import 'package:PerNews/models/live_news.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import 'package:http/http.dart' as http;
 
 Future<List<ENews>> gewENews() async {

@@ -1,11 +1,11 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:blog_app/app_theme.dart';
-import 'package:blog_app/controllers/user_controller.dart';
-import 'package:blog_app/data/key_holder.dart';
-import 'package:blog_app/helpers/shared_pref_utils.dart';
-import 'package:blog_app/models/user.dart';
+import 'package:PerNews/app_theme.dart';
+import 'package:PerNews/controllers/user_controller.dart';
+import 'package:PerNews/data/key_holder.dart';
+import 'package:PerNews/helpers/shared_pref_utils.dart';
+import 'package:PerNews/models/user.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_facebook_login/flutter_facebook_login.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';

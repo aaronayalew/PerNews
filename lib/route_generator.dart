@@ -1,17 +1,17 @@
-import 'package:blog_app/pages/ads.dart';
-import 'package:blog_app/pages/category_post.dart';
-import 'package:blog_app/pages/home_page_clone.dart';
-import 'package:blog_app/pages/latest_post.dart';
-import 'package:blog_app/pages/load_swipeable.dart';
-import 'package:blog_app/pages/saved_post.dart';
-import 'package:blog_app/pages/tinder_swipe.dart';
+import 'package:PerNews/pages/ads.dart';
+import 'package:PerNews/pages/category_post.dart';
+import 'package:PerNews/pages/home_page_clone.dart';
+import 'package:PerNews/pages/latest_post.dart';
+import 'package:PerNews/pages/load_swipeable.dart';
+import 'package:PerNews/pages/saved_post.dart';
+import 'package:PerNews/pages/tinder_swipe.dart';
 import 'package:flutter/material.dart';
 
-import 'package:blog_app/pages/auth.dart';
-import 'package:blog_app/pages/home_page.dart';
-import 'package:blog_app/pages/read_blog.dart';
-import 'package:blog_app/pages/search_page.dart';
-import 'package:blog_app/pages/user_profile.dart';
+import 'package:PerNews/pages/auth.dart';
+import 'package:PerNews/pages/home_page.dart';
+import 'package:PerNews/pages/read_blog.dart';
+import 'package:PerNews/pages/search_page.dart';
+import 'package:PerNews/pages/user_profile.dart';
 import 'pages/language_selection.dart';
 import 'pages/splash_screen.dart';
 

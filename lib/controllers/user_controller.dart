@@ -1,9 +1,9 @@
-import 'package:blog_app/elements/reset_password_sheet.dart';
-import 'package:blog_app/elements/sign_in_bottom_sheet.dart';
-import 'package:blog_app/helpers/notification_helper.dart';
-import 'package:blog_app/pages/SwipeablePage.dart';
-import 'package:blog_app/pages/home_page.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/elements/reset_password_sheet.dart';
+import 'package:PerNews/elements/sign_in_bottom_sheet.dart';
+import 'package:PerNews/helpers/notification_helper.dart';
+import 'package:PerNews/pages/SwipeablePage.dart';
+import 'package:PerNews/pages/home_page.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import 'package:bot_toast/bot_toast.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';

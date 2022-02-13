@@ -1,4 +1,4 @@
-import 'package:blog_app/models/blog_category.dart';
+import 'package:PerNews/models/blog_category.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:visibility_detector/visibility_detector.dart';

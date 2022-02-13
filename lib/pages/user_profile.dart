@@ -1,11 +1,11 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:blog_app/controllers/user_controller.dart';
-import 'package:blog_app/elements/drawer_builder.dart';
-import 'package:blog_app/helpers/shared_pref_utils.dart';
-import 'package:blog_app/models/user.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/controllers/user_controller.dart';
+import 'package:PerNews/elements/drawer_builder.dart';
+import 'package:PerNews/helpers/shared_pref_utils.dart';
+import 'package:PerNews/models/user.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';

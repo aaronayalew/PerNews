@@ -1,14 +1,14 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:blog_app/app_theme.dart';
-import 'package:blog_app/data/blog_list_holder.dart';
-import 'package:blog_app/elements/card_item.dart';
-import 'package:blog_app/elements/drawer_builder.dart';
-import 'package:blog_app/models/blog_category.dart';
-import 'package:blog_app/pages/SwipeablePage.dart';
-import 'package:blog_app/providers/app_provider.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/app_theme.dart';
+import 'package:PerNews/data/blog_list_holder.dart';
+import 'package:PerNews/elements/card_item.dart';
+import 'package:PerNews/elements/drawer_builder.dart';
+import 'package:PerNews/models/blog_category.dart';
+import 'package:PerNews/pages/SwipeablePage.dart';
+import 'package:PerNews/providers/app_provider.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:firebase_admob/firebase_admob.dart';
 import 'package:firebase_core/firebase_core.dart';

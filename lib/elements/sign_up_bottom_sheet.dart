@@ -1,8 +1,8 @@
-import 'package:blog_app/controllers/user_controller.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/controllers/user_controller.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:mdi/mdi.dart';
-import 'package:blog_app/elements/sign_in_bottom_sheet.dart';
+import 'package:PerNews/elements/sign_in_bottom_sheet.dart';
 
 import '../appColors.dart';
 

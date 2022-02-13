@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:blog_app/models/app_model.dart';
+import 'package:PerNews/models/app_model.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:google_fonts/google_fonts.dart';

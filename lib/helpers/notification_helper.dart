@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:blog_app/models/notification/notification.dart';
+import 'package:PerNews/models/notification/notification.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 

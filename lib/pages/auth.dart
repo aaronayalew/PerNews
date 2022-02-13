@@ -1,15 +1,15 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:blog_app/controllers/user_controller.dart';
-import 'package:blog_app/data/blog_list_holder.dart';
-import 'package:blog_app/elements/sign_in_bottom_sheet.dart';
-import 'package:blog_app/helpers/shared_pref_utils.dart';
-import 'package:blog_app/models/blog_category.dart';
-import 'package:blog_app/models/setting.dart';
-import 'package:blog_app/models/user.dart';
-import 'package:blog_app/pages/SwipeablePage.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/controllers/user_controller.dart';
+import 'package:PerNews/data/blog_list_holder.dart';
+import 'package:PerNews/elements/sign_in_bottom_sheet.dart';
+import 'package:PerNews/helpers/shared_pref_utils.dart';
+import 'package:PerNews/models/blog_category.dart';
+import 'package:PerNews/models/setting.dart';
+import 'package:PerNews/models/user.dart';
+import 'package:PerNews/pages/SwipeablePage.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';

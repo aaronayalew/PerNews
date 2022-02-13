@@ -1,6 +1,6 @@
 import 'dart:convert';
-import 'package:blog_app/controllers/user_controller.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/controllers/user_controller.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import 'package:bot_toast/bot_toast.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';

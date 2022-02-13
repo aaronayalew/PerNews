@@ -1,4 +1,4 @@
-import 'package:blog_app/models/user.dart';
+import 'package:PerNews/models/user.dart';
 import 'package:flutter/material.dart';
 
 class AppModel {

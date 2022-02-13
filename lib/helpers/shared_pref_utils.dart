@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:blog_app/models/user.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/models/user.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class SharedPreferencesUtils {

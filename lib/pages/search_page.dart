@@ -1,10 +1,10 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:blog_app/elements/bottom_card_item.dart';
-import 'package:blog_app/elements/drawer_builder.dart';
-import 'package:blog_app/models/blog_category.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/elements/bottom_card_item.dart';
+import 'package:PerNews/elements/drawer_builder.dart';
+import 'package:PerNews/models/blog_category.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:http/http.dart' as http;

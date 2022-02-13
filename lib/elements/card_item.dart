@@ -1,6 +1,6 @@
-import 'package:blog_app/data/blog_list_holder.dart';
-import 'package:blog_app/models/blog_category.dart';
-import 'package:blog_app/pages/SwipeablePage.dart';
+import 'package:PerNews/data/blog_list_holder.dart';
+import 'package:PerNews/models/blog_category.dart';
+import 'package:PerNews/pages/SwipeablePage.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:hexcolor/hexcolor.dart';

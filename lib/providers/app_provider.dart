@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:blog_app/data/blog_list_holder.dart';
-import 'package:blog_app/models/blog_category.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/data/blog_list_holder.dart';
+import 'package:PerNews/models/blog_category.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 

@@ -1,4 +1,4 @@
-import 'package:blog_app/repository/home_repository.dart';
+import 'package:PerNews/repository/home_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:mvc_pattern/mvc_pattern.dart';
 import '../models/blog_category.dart';

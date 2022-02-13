@@ -1,5 +1,5 @@
-import 'package:blog_app/models/e_news.dart';
-import 'package:blog_app/models/live_news.dart';
+import 'package:PerNews/models/e_news.dart';
+import 'package:PerNews/models/live_news.dart';
 import 'package:mvc_pattern/mvc_pattern.dart';
 import '../repository/e_live_news_repository.dart' as eLiveRepo;
 

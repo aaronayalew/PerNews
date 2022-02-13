@@ -1,8 +1,8 @@
-import 'package:blog_app/app_theme.dart';
-import 'package:blog_app/models/app_model.dart';
-import 'package:blog_app/providers/app_provider.dart';
-import 'package:blog_app/repository/user_repository.dart';
-import 'package:blog_app/route_generator.dart';
+import 'package:PerNews/app_theme.dart';
+import 'package:PerNews/models/app_model.dart';
+import 'package:PerNews/providers/app_provider.dart';
+import 'package:PerNews/repository/user_repository.dart';
+import 'package:PerNews/route_generator.dart';
 import 'package:bot_toast/bot_toast.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';

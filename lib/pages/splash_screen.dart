@@ -1,10 +1,10 @@
 import 'dart:convert';
 
-import 'package:blog_app/controllers/user_controller.dart';
-import 'package:blog_app/helpers/shared_pref_utils.dart';
-import 'package:blog_app/models/language.dart';
-import 'package:blog_app/models/messages.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/controllers/user_controller.dart';
+import 'package:PerNews/helpers/shared_pref_utils.dart';
+import 'package:PerNews/models/language.dart';
+import 'package:PerNews/models/messages.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:shared_preferences/shared_preferences.dart';

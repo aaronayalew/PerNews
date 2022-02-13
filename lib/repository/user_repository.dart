@@ -1,9 +1,9 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:blog_app/helpers/shared_pref_utils.dart';
-import 'package:blog_app/models/language.dart';
-import 'package:blog_app/models/messages.dart';
+import 'package:PerNews/helpers/shared_pref_utils.dart';
+import 'package:PerNews/models/language.dart';
+import 'package:PerNews/models/messages.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

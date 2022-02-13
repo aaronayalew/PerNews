@@ -1,4 +1,4 @@
-// import 'package:blog_app/models/static_item.dart';
+// import 'package:PerNews/models/static_item.dart';
 
 // //! Static data to be replaced with data from server
 

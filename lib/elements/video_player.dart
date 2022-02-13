@@ -1,4 +1,4 @@
-import 'package:blog_app/models/blog_category.dart';
+import 'package:PerNews/models/blog_category.dart';
 import 'package:flutter/material.dart';
 import 'package:youtube_player_flutter/youtube_player_flutter.dart' as convert;
 import 'package:youtube_plyr_iframe/youtube_plyr_iframe.dart';

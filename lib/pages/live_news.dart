@@ -1,5 +1,5 @@
-import 'package:blog_app/controllers/e_live_new_controller.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/controllers/e_live_new_controller.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:mvc_pattern/mvc_pattern.dart';
 import 'package:visibility_detector/visibility_detector.dart';

@@ -1,10 +1,10 @@
-import 'package:blog_app/controllers/user_controller.dart';
+import 'package:PerNews/controllers/user_controller.dart';
 import 'package:flutter/material.dart';
 
 import 'package:mdi/mdi.dart';
 
 import '../appColors.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/repository/user_repository.dart';
 
 class ForgotPasswordSheet extends StatefulWidget {
   final GlobalKey<ScaffoldState> scaffoldKey;

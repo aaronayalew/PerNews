@@ -1,11 +1,11 @@
-import 'package:blog_app/elements/forgot_password_sheet.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/elements/forgot_password_sheet.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:mvc_pattern/mvc_pattern.dart';
 
 import 'package:mdi/mdi.dart';
 
-import 'package:blog_app/elements/sign_up_bottom_sheet.dart';
+import 'package:PerNews/elements/sign_up_bottom_sheet.dart';
 import '../appColors.dart';
 import '../controllers/user_controller.dart';
 

@@ -1,6 +1,6 @@
-import 'package:blog_app/data/blog_list_holder.dart';
-import 'package:blog_app/pages/read_blog.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/data/blog_list_holder.dart';
+import 'package:PerNews/pages/read_blog.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/physics.dart';
 import 'package:fluttertoast/fluttertoast.dart';

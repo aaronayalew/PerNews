@@ -1,17 +1,17 @@
 import 'dart:convert';
-import 'package:blog_app/data/blog_list_holder.dart';
-import 'package:blog_app/models/blog_category.dart';
-import 'package:blog_app/models/user.dart';
-import 'package:blog_app/pages/SwipeablePage.dart';
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/data/blog_list_holder.dart';
+import 'package:PerNews/models/blog_category.dart';
+import 'package:PerNews/models/user.dart';
+import 'package:PerNews/pages/SwipeablePage.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:flutter_facebook_login/flutter_facebook_login.dart';
 import 'package:http/http.dart' as http;
-import 'package:blog_app/models/setting.dart';
+import 'package:PerNews/models/setting.dart';
 import 'package:loading_overlay/loading_overlay.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:blog_app/controllers/user_controller.dart';
+import 'package:PerNews/controllers/user_controller.dart';
 
 SharedPreferences prefs;
 //* <--------- Authentication page [Login, SignUp , ForgotPassword] ------------>

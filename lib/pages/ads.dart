@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:blog_app/repository/user_repository.dart';
+import 'package:PerNews/repository/user_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_admob/firebase_admob.dart';
