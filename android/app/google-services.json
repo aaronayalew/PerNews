@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91488734266",
+    "project_id": "pernews-e2105",
+    "storage_bucket": "pernews-e2105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91488734266:android:25bd5430c59d06125a3903",
+        "android_client_info": {
+          "package_name": "com.pernews.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91488734266-1uf592l7a3harhp99va8rhaoqgcfq7s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0n1uqRUG2YQ_IGtErf71z1akL1yG9PY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91488734266-1uf592l7a3harhp99va8rhaoqgcfq7s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
